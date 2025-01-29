@@ -1,6 +1,8 @@
-📌 Customer Churn Prediction (85% Accuracy) 🚀
+📌 Customer Churn Prediction (85% Accuracy) 🚀 
 
 This project predicts customer churn using Machine Learning (ML) with Logistic Regression and Random Forest.
+
+This project is solely for my practice; real-time usage requires more training and advancement.
 
 🔹 Key Features
 
